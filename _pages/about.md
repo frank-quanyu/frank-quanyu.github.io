@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /index.html
+permalink: /
 subtitle: Zhejiang University · Materials Science and Engineering
 
 profile:
