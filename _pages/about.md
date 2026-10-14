@@ -7,7 +7,7 @@ subtitle: Zhejiang University · Materials Science and Engineering
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_photo.jpg
   image_circular: false
   more_info: >
     <p>Zhejiang University</p>
